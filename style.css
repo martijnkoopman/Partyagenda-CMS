@@ -1,0 +1,17 @@
+body{
+	font-family:verdana;
+	font-size:12px;
+	}
+	
+td{
+	font-size:12px;
+	vertical-align:text-top;
+	}
+
+form{
+	display:inline;
+	}
+
+input[type=text]{
+	width:300px;
+}
